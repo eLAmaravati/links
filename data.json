@@ -1,0 +1,70 @@
+{
+	"name": "Langit Amaravati",
+	"avatar": "",
+	"website": [
+		{
+			"title": "Langit Amaravati",
+			"url": "https://www.langitamaravati.com",
+			"icon": "FaCode"
+		},
+		{
+			"title": "Github Pages",
+			"url": "https://elamaravati.github.io/",
+			"icon": "PiGithubLogo"
+		},
+		{
+			"title": "WisataKata",
+			"url": "https://wisatakata.netlify.app/",
+			"icon": "PiBooks"
+		},
+		{
+			"title": "Hola Bandung",
+			"url": "https://holabandung.vercel.app/",
+			"icon": "PiCoffee"
+		},
+		{
+			"title": "Ada Setan di Kepalaku",
+			"url": "https://adasetandikepalaku.netlify.app/",
+			"icon": "FaTheaterMasks"
+		}
+	],
+	"socials": [
+		{
+			"title": "Github",
+			"url": "https://github.io/elamaravati",
+			"icon": "FaGithub"
+		},
+		{
+			"title": "Behance",
+			"url": "https://www.behance.net/langitamaravati/",
+			"icon": "FaBehance"
+		},
+		{
+			"title": "Youtube",
+			"url": "https://www.youtube.com/@LangitAmaravati/",
+			"icon": "TbBrandYoutubeFilled"
+		},
+		{
+			"title": "Linkedin",
+			"url": "https://id.linkedin.com/in/langitamaravati",
+			"icon": "TfiLinkedin"
+		},
+		{
+			"title": "Instagram",
+			"url": "https://www.instagram.com/langitamaravati/",
+			"icon": "FaInstagram"
+		}
+	],
+	"shop": [
+		{
+			"title": "Template Blogspot",
+			"url": "https://www.langitamaravati.com",
+			"icon": "FaBloggerB"
+		},
+		{
+			"title": "Template WordPress",
+			"url": "https://www.langitamaravati.com",
+			"icon": "FaWordpressSimple"
+		}
+	]
+}
