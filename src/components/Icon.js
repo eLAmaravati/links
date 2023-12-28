@@ -1,5 +1,5 @@
 import { FaGithub, FaCode, FaBehance, FaBloggerB, FaWordpressSimple} from 'react-icons/fa6';
-import { FaTheaterMasks, FaInstagram } from "react-icons/fa";
+import { FaTheaterMasks, FaInstagram, FaSoundcloud } from "react-icons/fa";
 import { PiBooks, PiCoffee, PiGithubLogo } from 'react-icons/pi';
 import { TbBrandYoutubeFilled } from "react-icons/tb";
 import { TfiLinkedin } from "react-icons/tfi";
@@ -16,5 +16,6 @@ export const IconComponents = {
   PiCoffee,
   PiGithubLogo,
   TfiLinkedin,
-  FaInstagram
+  FaInstagram,
+  FaSoundcloud
 };

@@ -18,17 +18,17 @@ export default function Home() {
       <h1 className='text-center font-bold text-3xl text-neutral-300'>{ data.name }</h1>
       <p className='text-neutral-500 text-sm text-center mt-2'>Aktivis ngoding barbar yang punya love-hate relationship dengan JavaScript.</p>
 
-      <section className='py-10' id='website'>
+      <section className='pt-10' id='website'>
         <h2 className="text-neutral-300 text-xl text-center uppercase tracking-widest">Website:</h2>
         <WebsiteLinks />
       </section>
 
-      <section className="py-10" id='shop'>
+      <section className="pt-5" id='shop'>
         <h2 className="text-neutral-300 text-xl text-center uppercase tracking-widest mt-14">Toko Online:</h2>
         <ShopLinks />
       </section>
 
-      <section className="py-10" id='social'>
+      <section className="pt-5" id='social'>
         <h2 className="text-neutral-300 text-xl text-center uppercase tracking-widest mt-14">Sosial Media:</h2>
         <SocialLinks />
       </section>

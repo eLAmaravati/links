@@ -53,6 +53,11 @@
 			"title": "Instagram",
 			"url": "https://www.instagram.com/langitamaravati/",
 			"icon": "FaInstagram"
+		},
+		{
+			"title": "Soundcloud",
+			"url": "https://soundcloud.com/LangitAmaravati",
+			"icon": "FaSoundcloud"
 		}
 	],
 	"shop": [

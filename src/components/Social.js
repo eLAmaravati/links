@@ -3,7 +3,7 @@ import { IconComponents } from './Icon';
 
 export default function SocialLinks() {
   return (
-    <div className='group mt-5 flex w-[80vw] flex-wrap justify-center gap-5 *:mb-5 lg:max-w-screen-md'>
+    <div className='group mt-5 flex w-[80vw] flex-wrap justify-center gap-x-5 *:mb-5 lg:max-w-screen-md'>
       { data.socials.map((site, index) => {
         const Icon = IconComponents[site.icon];
         return (
