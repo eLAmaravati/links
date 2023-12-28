@@ -9,7 +9,7 @@ Membuat sekumpulan link sendiri karena ... kenapa tidak? Terinspirasi dari Lee R
 ## Links
 
 - [Repository](https://github.com/eLAmaravati/links)
-- [Website](https://elamaravati.github.io/links)
+- [Website](https://langit-link.vercel.app/)
 
 ## Tech Stacks
 
